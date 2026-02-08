@@ -17,7 +17,7 @@ Mediums don't matter as long as the vision is sharp, strong and fun enough.
 
 ## 🛠 My Skills & Tech Stack 💻 
 
-[![My skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,sass,tailwind,cpp,blender,unreal,figma,webflow,arduino)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,sass,tailwind,cpp,blender,figma,webflow,arduino)](https://skillicons.dev)
 
 🔹 **3D Web Development** – **Three.js, React Three Fiber, WebGL, GLSL**  
 🔹 **Creative Coding & Shaders** – **GLSL, Post Processing, Shader Art**  
