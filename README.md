@@ -13,6 +13,9 @@ Mediums don't matter as long as the vision is sharp, strong and fun enough.
 
 🌍 **Portfolio:** [Selected works](https://toshihito-endo.com/work)
 
+
+📃**Article:** [Insights... KASANÉ — Urushi Keyboard](http://thefwa.com/article/insights-kasane-urushi-keyboard)
+
 ---
 
 ## 🛠 My Skills & Tech Stack 💻 
