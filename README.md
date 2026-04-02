@@ -2,7 +2,7 @@
 
 # Hi, I'm Toshi! 👋
 
-I'm a visual designer (Web Design + Dev + 3D) who creates little "wow" moments to trigger people's curiosity through narrative web experiences that feel tangible — blending design, motion, and material sensitivity..
+I'm a visual designer (Web Design + Dev + 3D) who creates little "wow" moments to make tiny sparks in people's minds through narrative web experiences that feel tangible — blending design, motion, and material sensitivity..
 
 🏆 **Recognition:**  
 - **[FWA Of The Day (Dec 2025)](https://thefwa.com/cases/kasane-urushi-keyboard)** – *Awarded for KASANÉ — Urushi Keyboard*  
