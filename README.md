@@ -1,6 +1,6 @@
 ![Banner Image](/assets/portfolio-website-banner-v2.png)
 
-# Hi, I'm Toshi! 👋
+# Hi, I'm Toshihito! 👋
 
 I'm a visual designer (Web Design + Dev + 3D) who creates little "wow" moments to make tiny sparks in people's minds through narrative web experiences that feel tangible — blending design, motion, and material sensitivity..
 
