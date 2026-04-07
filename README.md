@@ -9,21 +9,23 @@ I'm a visual designer (Web Design + Dev + 3D) who creates little "wow" moments t
 - **[FWA Of The Day (March 2025)](https://thefwa.com/cases/a-3d-game-like-portfolio)** – *Awarded for 3D Game-like Portfolio*  
 - **[CSSDA Website of the Day (March 2025)](https://www.cssdesignawards.com/sites/toshihito-endo-portfolio/47143/)** – *Awarded for 3D Game-like Portfolio*
 
-🌍 **Portfolio:** [Selected works](https://toshihito-endo.com/work)
-🎥**Showreel:** [SHOWREEL](https://vimeo.com/1130529096?share=copy&fl=sv&fe=ci)
-📃**Article:** [Insights... KASANÉ — Urushi Keyboard](http://thefwa.com/article/insights-kasane-urushi-keyboard)
+🌍 **Portfolio:** [Selected works](https://toshihito-endo.com/work) <br />
+🎥**Showreel:** [SHOWREEL](https://vimeo.com/1130529096?share=copy&fl=sv&fe=ci) <br />
+📃**Article:** [Insights... KASANÉ — Urushi Keyboard](http://thefwa.com/article/insights-kasane-urushi-keyboard) <br />
 
 ---
 
 ## 🛠 My Skills & Tech Stack 💻 
 
-[![My skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,sass,tailwind,cpp,blender,figma,webflow,arduino)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=figma,webflow,blender,html,css,js,threejs,react,nextjs,sass,tailwind,cpp,arduino)](https://skillicons.dev)
 
-🔹 **3D Web Development** – **Three.js, React Three Fiber, WebGL, GLSL**  
-🔹 **Creative Coding & Shaders** – **GLSL, Post Processing, Shader Art**  
-🔹 **3D Spatial Visualization & Modelling** – **Blender, Unreal Engine, Houdini**  
-🔹 **Performance Optimization** – **Texture Baking, Lazy Loading**  
-🔹 **Interactive Experiences & UI/UX** – **Physics-based interactions, spatial web design**  
+🔹 **Web Design** – **Scalable Design System** <br />
+🔹 **Modern Web Development** – **Webflow + Lumos framework** <br />
+🔹 **3D Web Development** – **Three.js, React Three Fiber, WebGL, GLSL**  <br /> 
+🔹 **3D Spatial Visualization & Modelling** – **Blender, Unreal Engine, Houdini**  <br />
+🔹 **Performance Optimization** – **Texture Baking, Lazy Loading** <br /> 
+🔹 **Creative Coding & Shaders** – **GLSL, Post Processing, Shader Art**  <br />
+🔹 **Interactive Experiences & UI/UX** – **Physics-based interactions, spatial web design**  <br />
 
 ---
 
@@ -56,7 +58,7 @@ A **3D interactive floor planning tool** developed for **designers participating
 💌 **Let's connect!** I'm open to **collaborations, creative discussions**. Reach out via:
 
 📌 **X (Twitter):** [@toshihito_endo](https://x.com/toshihito_endo)  
-📌 **Instagram:** [@studiotoshihitoendo](https://www.instagram.com/studiotoshihitoendo/)  
+📌 **Instagram:** [@toshihitoendo](https://www.instagram.com/toshihitoendo/)  
 📌 **LinkedIn:** [Toshihito Endo](https://www.linkedin.com/in/toshihito-endo-a68a82172/)  
 📌 **Email:** [toshihito.endo@gmail.com](mailto:toshihito.endo@gmail.com)  
 
