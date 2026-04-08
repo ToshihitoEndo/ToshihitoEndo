@@ -20,11 +20,11 @@ I'm a visual designer (Web Design + Dev + 3D) who creates little "wow" moments t
 [![My skills](https://skillicons.dev/icons?i=figma,webflow,blender,html,css,js,threejs,react,nextjs,sass,tailwind,cpp,arduino)](https://skillicons.dev)
 
 🔹 **Web Design** – **Scalable Design System** <br />
-🔹 **Modern Web Development** – **Webflow + Lumos framework** <br />
+🔹 **Modern Web Development** – **Webflow + Lumos framework + CMS** <br />
 🔹 **3D Web Development** – **Three.js, React Three Fiber, WebGL, GLSL**  <br /> 
-🔹 **3D Spatial Visualization & Modelling** – **Blender, Unreal Engine, Houdini**  <br />
+🔹 **3D Spatial Visualization & Modelling** – **Blender**  <br />
 🔹 **Performance Optimization** – **Texture Baking, Lazy Loading** <br /> 
-🔹 **Creative Coding & Shaders** – **GLSL, Post Processing, Shader Art**  <br />
+🔹 **Creative Coding & Shaders** – **GLSL, Post Processing**  <br />
 🔹 **Interactive Experiences & UI/UX** – **Physics-based interactions, spatial web design**  <br />
 
 ---
