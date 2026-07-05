@@ -24,7 +24,6 @@ I'm a visual designer, 3d designer, developer who creates little "wow" moments t
 🔹 **3D Web Development** – **Three.js, React Three Fiber, WebGL, GLSL**  <br /> 
 🔹 **3D Spatial Visualization & Modelling** – **Blender**  <br />
 🔹 **Performance Optimization** – **Texture Baking, Lazy Loading** <br /> 
-🔹 **Creative Coding & Shaders** – **GLSL, Post Processing**  <br />
 🔹 **Interactive Experiences & UI/UX** – **Physics-based interactions, spatial web design**  <br />
 
 ---
