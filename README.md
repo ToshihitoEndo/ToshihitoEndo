@@ -4,11 +4,12 @@
 
 I'm a visual designer, 3d designer, developer who creates little "wow" moments to make tiny sparks in people's minds through narrative web experiences that feel tangible — blending design, motion, and material sensitivity.
 
-🏆 **Recognition:**  
+🏆 **Awards & Recognition:**  
 - **[FWA Of The Day (Dec 2025)](https://thefwa.com/cases/kasane-urushi-keyboard)** – *Awarded for KASANÉ — Urushi Keyboard*  
 - **[FWA Of The Day (March 2025)](https://thefwa.com/cases/a-3d-game-like-portfolio)** – *Awarded for 3D Game-like Portfolio*  
 - **[CSSDA Website of the Day (March 2025)](https://www.cssdesignawards.com/sites/toshihito-endo-portfolio/47143/)** – *Awarded for 3D Game-like Portfolio*
 - **[Awwwards Honorable Mention (November 2025)](https://www.awwwards.com/sites/kasane-urushi-keyboard)** – *Awarded for KASANÉ — Urushi Keyboard*
+- **[Good Web Design - Product/Interior](https://good-web-design.com/webdesign/interior)** – *Features KASANÉ — Urushi Keyboard in their gallery*
 
 🌍 **Portfolio:** [Selected works](https://toshihito-endo.com/work) <br />
 🎥**Showreel:** [SHOWREEL](https://vimeo.com/1130529096?share=copy&fl=sv&fe=ci) <br />
