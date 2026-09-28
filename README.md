@@ -23,21 +23,3 @@ I'm a visual designer, 3d designer, developer who creates little "wow" moments t
 [![My skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,cpp,arduino)](https://skillicons.dev)
 
 <br />
-
-**🚀 Featured Projects** 
-
-- **[🎮 3D Game-like Portfolio](https://toshihito-endo.com/work/gamelikeportfolio)**
-- **[🍵 Weather Cereal – A Zen Weather Experience](https://toshihito-endo.com/work/weathercereal)**
-- **[📐 Object Rotterdam 2024 Floor Plan Tool & Digital Archive](https://toshihito-endo.com/work/objectrotterdam2024)**
-
-<br />
-
----
-
-
-📌 **X (Twitter):** [@toshihito_endo](https://x.com/toshihito_endo)  
-📌 **Instagram:** [@toshihitoendo](https://www.instagram.com/toshihitoendo/)  
-📌 **LinkedIn:** [Toshihito Endo](https://www.linkedin.com/in/toshihito-endo-a68a82172/)  
-📌 **Email:** [toshihito.endo@gmail.com](mailto:toshihito.endo@gmail.com)  
-
-Let’s build something creative together! ✨
