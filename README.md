@@ -1,4 +1,4 @@
-![Banner Image](/assets/portfolio-website-banner-v2.png)
+![Banner Image](/assets/hero-image.webp)
 
 # Hi I'm Toshihito, Visual Designer, 3D Artist, Developer👋
 
