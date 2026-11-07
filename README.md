@@ -1,5 +1,3 @@
-![Banner Image](/assets/hero-image.webp)
-
 # Hi I'm Toshihito, Visual Designer, 3D Artist, Developer👋
 
 🌍 [**Portfolio**](https://toshihito-endo.com/work)  **|** 🎥 [**Showreel**](https://vimeo.com/1130529096?share=copy&fl=sv&fe=ci) <br />
