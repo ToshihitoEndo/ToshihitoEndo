@@ -1,8 +1,8 @@
-# Hi I'm Toshihito, Visual Designer, 3D Artist, Developer👋
+# Hi I'm Toshihito👋
 
 🌍 [**Portfolio**](https://toshihito-endo.com/work)  **|** 🎥 [**Showreel**](https://vimeo.com/1130529096?share=copy&fl=sv&fe=ci) <br />
 
-I'm a visual designer, 3d designer, developer who creates little "wow" moments to make tiny sparks in people's minds through narrative web experiences that feel tangible — blending design, motion, and material sensitivity.
+I'm a visual designer, 3d artist, developer who creates little "wow" moments to make tiny sparks in people's minds through narrative web experiences that feel tangible — blending design, motion, and material sensitivity.
 
 <br />
 
