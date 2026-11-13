@@ -1,6 +1,6 @@
 # Hi I'm Toshihito👋
 
-🌍 [**Portfolio**](https://toshihito-endo.com/work)  **|** 🎥 [**Showreel**](https://vimeo.com/1130529096?share=copy&fl=sv&fe=ci) <br />
+[**PORTFOLIO**](https://toshihito-endo.com/work) **|** [**SHOWREEL**](https://vimeo.com/1130529096?share=copy&fl=sv&fe=ci) **|** [**INSTA**](https://www.instagram.com/toshihitoendo/) **|** [**MEDIUM**](https://medium.com/@toshihito.endo) **|** [**VIMEO**](https://vimeo.com/user125720059?fl=pp&fe=sh) <br />
 
 I'm a visual designer, 3d artist, developer who creates little "wow" moments to make tiny sparks in people's minds through narrative web experiences that feel tangible — blending design, motion, and material sensitivity.
 
