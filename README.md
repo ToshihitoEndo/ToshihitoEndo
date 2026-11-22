@@ -1,4 +1,4 @@
-![hero img](assets/kasane-screens.webp)
+![hero img](assets/hero-image.webp)
 
 # Hi I'm Toshi👋 
 
