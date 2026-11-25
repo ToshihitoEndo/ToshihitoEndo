@@ -6,7 +6,7 @@
 
 <br />
 
-I'm a **visual designer** + **3d artist** + **developer** who creates little "wow" moments to make tiny sparks in people's minds through narrative web experiences that feel tangible — blending design, motion, and material sensitivity.
+I'm a **digital designer** + **3d artist** + **developer** who creates little "wow" moments to make tiny sparks in people's minds through narrative web experiences that feel tangible — blending design, motion, and material sensitivity.
 
  <br />
 
